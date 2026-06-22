@@ -38,8 +38,8 @@ Automatizar e simplificar a gestão de eventos acadêmicos, reduzindo o trabalho
 
 ## Tecnologias Utilizadas
 
-* HTML5
-* CSS3
+* HTML
+* CSS
 * JavaScript
 * Figma (Prototipação)
 
@@ -47,7 +47,7 @@ Automatizar e simplificar a gestão de eventos acadêmicos, reduzindo o trabalho
 
 🚧 Projeto acadêmico em desenvolvimento para o Projeto Multidisciplinar Integrador (ADS).
 
-## Desenvolvedora
+## Desenvolvedores
 
 Suellen Sagas
 Ana Vitoria
